@@ -35,9 +35,11 @@ v16.13.2
 
 ## nodemon version
 
+2.0.15
 
 ## Heroku version
 
+heroku/7.59.2 darwin-x64 node-v12.21.0
 
 ## Git version
 
