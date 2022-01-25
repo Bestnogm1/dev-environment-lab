@@ -1,3 +1,6 @@
+<!-- got it the [alt text] from stack ovrefloat-->
+![alt text](https://i.imgur.com/njXLD5F.png)
+
 # dev-environment-lab
 # dev-environment-lab
 
